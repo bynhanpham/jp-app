@@ -30,7 +30,7 @@ const useStyles = makeStyles(theme => ({
   }
 }));
 
-export default function Navbar({ toggleSidebar, location }) {
+export default function Navbar({ toggleSidebar, location, history }) {
   const classes = useStyles();
   return (
     <div className={classes.root}>
@@ -74,6 +74,7 @@ export default function Navbar({ toggleSidebar, location }) {
             aria-controls="primary-search-account-menu"
             aria-haspopup="true"
             color="inherit"
+            onClick={() => history.push("/login")}
           >
             <AccountCircle />
           </IconButton>

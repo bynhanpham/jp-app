@@ -3,17 +3,17 @@
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "https://mpng.pngfly.com/20180410/gtw/kisspng-tsu-katakana-hiragana-tsum-5accc546469c91.0094550015233692862892.jpg",
+      "src": "http://pngimg.com/uploads/pokemon/pokemon_PNG33.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "https://mpng.pngfly.com/20180410/gtw/kisspng-tsu-katakana-hiragana-tsum-5accc546469c91.0094550015233692862892.jpg",
+      "src": "http://pngimg.com/uploads/pokemon/pokemon_PNG33.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "https://mpng.pngfly.com/20180410/gtw/kisspng-tsu-katakana-hiragana-tsum-5accc546469c91.0094550015233692862892.jpg",
+      "src": "http://pngimg.com/uploads/pokemon/pokemon_PNG33.png",
       "type": "image/png",
       "sizes": "512x512"
     }
